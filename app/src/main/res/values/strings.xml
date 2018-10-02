@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YouTube Thumbnail Maker</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8355474163260431/6759835651</string>
+    <string name="full_screen_ad_unit_id">ca-app-pub-8355474163260431/5400320821</string>
+
+                    <!-- Put Your Native Admob id here    -->
+    <string name="nativ_main_page">ca-app-pub-2979205153474683/7904618055</string>
+    <string name="nativ_save_page">ca-app-pub-2979205153474683/9381351251</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+
+
+</resources>
